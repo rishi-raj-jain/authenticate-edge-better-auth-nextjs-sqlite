@@ -3,7 +3,7 @@ meta_title: Authenticate users at the edge with Better Auth, Next.js 16, and SQL
 meta_description: A step-by-step guide for building an edge-first authentication flow in Next.js 16, with sessions stored in a globally replicated SQLite database on Bunny Database and the app deployed to Magic Containers so auth runs close to every user.
 ---
 
-Have you ever wondered how to deploy your applications so that every layer of your stack is located as close as possible to users around the world? This approach makes your applications truly edge-first and helps reduce the round-trip time for requests between services, since both the database and backend run close to your users.
+Have you ever wondered how fast your applications could be if every part of your stack ran right next to your users all over the world? If you build a truly edge-first stack using Bunny Magic Containers for your application and Bunny Database for globally distributed data, you keep every layer close to your users. This reduces round-trip times and delivers better experiences.
 
 In this guide, you will learn how to create a Next.js 16 app, wire Better Auth with the new proxy pattern, connect users and sessions to Bunny Database (SQLite), protect the home page with full session validation, containerize the app, and deploy it to Bunny Magic Containers with GitHub Actions.
 
