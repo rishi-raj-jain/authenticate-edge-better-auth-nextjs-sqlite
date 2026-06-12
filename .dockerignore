@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.git
+.github
+.next
+node_modules
+npm-debug.log*
+README.md
+CLAUDE.md
+AGENTS.md
