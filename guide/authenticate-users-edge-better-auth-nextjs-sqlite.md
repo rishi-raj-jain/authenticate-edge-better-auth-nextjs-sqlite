@@ -815,6 +815,6 @@ This guide walked you through creating a complete authentication flow using Bett
 
 ## Resources
 
-- For database connection details, refer to the [Bunny Database documentation](https://docs.bunny.net/database/quickstart).
-- For container deployment guidance, see the [Magic Containers documentation](https://docs.bunny.net/magic-containers).
-- For Better Auth configuration options, visit the [Better Auth documentation](https://better-auth.com/docs).
+- [Bunny Database documentation](https://docs.bunny.net/database/quickstart)
+- [Magic Containers documentation](https://docs.bunny.net/magic-containers)
+- [Better Auth documentation](https://better-auth.com/docs)
