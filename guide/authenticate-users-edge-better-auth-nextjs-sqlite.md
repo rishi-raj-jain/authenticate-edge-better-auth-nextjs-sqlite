@@ -11,7 +11,7 @@ In this guide, you will learn how to create a Next.js 16 app, wire Better Auth w
 
 To follow along in this guide, you will need the following:
 
-- [Node.js 20](https://nodejs.org/en) or later
+- [Node.js 22](https://nodejs.org/en) or later
 - A [Bunny.net](https://bunny.net) account
 - A [GitHub](https://github.com) account
 
