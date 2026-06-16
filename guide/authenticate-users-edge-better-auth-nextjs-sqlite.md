@@ -34,10 +34,10 @@ Save the Database URL and Full-Access Token somewhere safe to be used as the `BU
 Let’s get started by creating a new Next.js project. Open your terminal and run the following command:
 
 ```bash
-npx create-next-app@latest edge-auth
+npx create-next-app@latest edge-auth --typescript --tailwind --app --no-src-dir
 ```
 
-When prompted, choose the recommended defaults. That installs Next.js, React, Tailwind CSS, and ESLint automatically.
+It would install Next.js, React, Tailwind CSS, and ESLint automatically.
 
 Once that’s done, you can move into the project directory and start the app:
 
